@@ -12,3 +12,4 @@ accountcity="patiala";
 accountstate;
 
 console.table([accountId,accountEmail,accountPassword,accountcity,accountstate]);
+
