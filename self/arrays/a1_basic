@@ -1,0 +1,14 @@
+const myArr = [1,2,3,4];
+
+console.log(myArr[0]);
+
+//method
+
+// myArr.push(6);         1,2,3,4,6
+// myArr.pop();           1,2,3,4
+// myArr.unshift(9)       9,1,2,3,4
+// myArr.shift()          1,2,3,4
+
+console.log(myArr);
+
+
