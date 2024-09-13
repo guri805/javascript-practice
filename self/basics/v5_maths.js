@@ -13,3 +13,20 @@ const min=10;
 const max=20;
 
 console.log(Math.floor((Math.random() * (max - min + 1)) + min) ); 
+
+// logical and (&&) and logical or(||) operator
+console.log(5 + "7"); // 57 //change the number to string
+console.log(5 - "2"); //3 // change the string to number
+
+// uniar oprator 
+const x = 7;
+// console.log(-x) ; // -7
+// x =-7
+// console.log(-x) ; // 7
+// x ="7"
+// console.log(-x) ; // 7 //change string to number
+
+
+
+ 
+ 
