@@ -16,13 +16,14 @@ const newArr = myArr.join();
 // console.log(myArr);
 // console.log(newArr); // change to string type
 // console.log("orignal" , myArr);
+// console.log(typeof newArr); // string
 
 const newArr1 = myArr.slice(1,3);
-// console.log("slice array",newArr1);
-// console.log("orignal" , myArr);
+// console.log("slice array",newArr1); //slice array [ 2, 3 ]
+// console.log("orignal" , myArr);     //orignal [ 1, 2, 3, 4 ]
 const newArr2 = myArr.splice(1,3); // In splice array the orginal array will be changed the splice values will be pop from the orignal array 
-// console.log("splice array",newArr2);
-// console.log("orignal" , myArr);
+// console.log("splice array",newArr2);  //splice array [ 2, 3, 4 ]
+// console.log("orignal" , myArr); //orignal [ 1 ]
 
 
 
