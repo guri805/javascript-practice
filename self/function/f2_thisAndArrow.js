@@ -9,7 +9,7 @@
 //     console.log(this);
 //   }
 // }
-// // +++++++++++++++++++ THIS WILL USE ONLY IN OBJECT
+// // // +++++++++++++++++++ THIS WILL USE ONLY IN OBJECT
 // user.welcomeMessage(); // gursangam , welcome to website 
 
 // user.username = "guri";
@@ -44,6 +44,7 @@
 // const addTwoNumber = (num1,num2) =>{       // mehthod 1 
 //   return num1+num2;
 // }
+// RETURN WILL BE MANDATORY IN OBJECT
 // console.log(addTwoNumber(3,5)); // 8
 
 // ++++++++ implicit 
@@ -53,5 +54,5 @@
 
 // +++++++++ for onbject call 
 const addTwoNumber = () =>  ({username : "gursangam"})   
-console.log(addTwoNumber());  // { username: 'gursangam' }
+// console.log(addTwoNumber());  // { username: 'gursangam' }
 
