@@ -5,9 +5,9 @@ const course ={
 }
 // console.log(course.courseInstructor);
 
-const {courseInstructor : instructor} = course;
+const {courseInstructor :  instructor } = course;
                         // ^ de-structure or rename
-// console.log(courseInstructor);     //guri
+// console.log(courseInstructor);     
 console.log(instructor);             //guri
 
 
