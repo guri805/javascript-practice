@@ -16,7 +16,7 @@ const jsUser = {
   lastLogginDays :["monday" , "Friday"]
 }
 
-// console.log(jsUser.email); // guri@gmail.com it gives output but the value is in string it will give error ("email")
+console.log(jsUser.email); // guri@gmail.com it gives output but the value is in string it will give error ("email")
 // // to avoid this we use 
 // console.log(jsUser[`email`]); //guri@gmail.com
 // // console.log(jsUser.full name); error

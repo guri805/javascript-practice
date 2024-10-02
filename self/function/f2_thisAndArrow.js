@@ -1,16 +1,16 @@
 // +++++++++++++THIS FUNCTION
 
-// const user = {
-//   username : "gursangam" ,
-//   price : 999 ,
+const user = {
+  username : "gursangam" ,
+  price : 999 ,
 
-//   welcomeMessage : function() {
-//     console.log(`${this.username} , welcome to website`); //this refers to the current context
-//     console.log(this);
-//   }
-// }
+  welcomeMessage : function() {
+    console.log(`${this.username} , welcome to website`); //this refers to the current context
+    console.log(this);
+  }
+}
 // // // +++++++++++++++++++ THIS WILL USE ONLY IN OBJECT
-// user.welcomeMessage(); // gursangam , welcome to website 
+user.welcomeMessage(); // gursangam , welcome to website 
 
 // user.username = "guri";
 
