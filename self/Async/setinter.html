@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>chai our javascript</h1>
+    <button type="button" id="start">Start</button>
+    <button type="button" id="stop">Stop</button>
+</body>
+<script>
+    const sayDate = function(str){
+        console.log(str, Date.now());
+    }
+    // const interValId = setInterval(sayDate,1000,"hii");
+    
+    let interValId;
+
+    document.querySelector('#start').addEventListener('click',function(){
+        interValId = setInterval(sayDate,1000,"hii");
+    })
+
+    document.querySelector('#stop').addEventListener('click',function(){
+        clearInterval(interValId);
+    })
+</script>
+</html>
