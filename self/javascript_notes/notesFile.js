@@ -13,4 +13,7 @@ Link => https://chatgpt.com/share/67e51e09-9aa8-8000-a9ee-df89bf91b9bf
 4. Date And Time 
 Link => https://chatgpt.com/share/67e52141-56e8-8000-a8d3-345f58f91c28
 
+5. String 
+Link => https://chatgpt.com/share/67e7abd9-9848-8000-95d3-2fd35e1807ba
+
 */
