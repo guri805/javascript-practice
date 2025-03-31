@@ -19,4 +19,7 @@ Link => https://chatgpt.com/share/67e7abd9-9848-8000-95d3-2fd35e1807ba
 6.Arrays
 Link => https://chatgpt.com/share/67e7c2cc-f2f0-8000-946d-5d28fece7a8e
 
+7. Object
+Link => https://chatgpt.com/share/67ea4960-0bac-8000-bfa9-6f2fd3d02a40
+
 */
