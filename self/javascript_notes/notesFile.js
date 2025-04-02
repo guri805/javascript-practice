@@ -21,5 +21,6 @@ Link => https://chatgpt.com/share/67e7c2cc-f2f0-8000-946d-5d28fece7a8e
 
 7. Object
 Link => https://chatgpt.com/share/67ea4960-0bac-8000-bfa9-6f2fd3d02a40
+Link => https://chatgpt.com/share/67ecdeed-bbb8-8000-8504-9b492906a737
 
 */
