@@ -23,4 +23,7 @@ Link => https://chatgpt.com/share/67e7c2cc-f2f0-8000-946d-5d28fece7a8e
 Link => https://chatgpt.com/share/67ea4960-0bac-8000-bfa9-6f2fd3d02a40
 Link => https://chatgpt.com/share/67ecdeed-bbb8-8000-8504-9b492906a737
 
+8.Functions
+Link => https://chatgpt.com/share/67f3ab6d-8304-8000-9ab2-7aff6929f6c8
+Link =>https://chatgpt.com/share/67f3ab8b-8520-8000-9b81-8dcbff0b24d4
 */
