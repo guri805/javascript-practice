@@ -44,7 +44,7 @@ function validateCart(cart) {
 function createOrder(cart) {
     const pr = new Promise(function (resolve, reject) {
         if (!validateCart(cart)) {
-            const err = "cart is empty"
+            const err =new Error("cart is empty")
             reject(err)
         }
         const orderId = "12345566"
@@ -56,4 +56,5 @@ function createOrder(cart) {
     })
     return pr
 }
+
 
